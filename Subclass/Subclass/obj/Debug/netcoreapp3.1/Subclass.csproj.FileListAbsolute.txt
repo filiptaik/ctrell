@@ -1,0 +1,13 @@
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\bin\Debug\netcoreapp3.1\Subclass.exe
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\bin\Debug\netcoreapp3.1\Subclass.deps.json
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\bin\Debug\netcoreapp3.1\Subclass.runtimeconfig.json
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\bin\Debug\netcoreapp3.1\Subclass.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\bin\Debug\netcoreapp3.1\Subclass.dll
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\bin\Debug\netcoreapp3.1\Subclass.pdb
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\obj\Debug\netcoreapp3.1\Subclass.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\obj\Debug\netcoreapp3.1\Subclass.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\obj\Debug\netcoreapp3.1\Subclass.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\obj\Debug\netcoreapp3.1\Subclass.AssemblyInfo.cs
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\obj\Debug\netcoreapp3.1\Subclass.dll
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\obj\Debug\netcoreapp3.1\Subclass.pdb
+C:\Users\Filip\source\repos\ctrell\Subclass\Subclass\obj\Debug\netcoreapp3.1\Subclass.genruntimeconfig.cache
