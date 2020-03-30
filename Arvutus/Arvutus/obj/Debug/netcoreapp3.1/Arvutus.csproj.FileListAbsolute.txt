@@ -1,0 +1,13 @@
+C:\Users\Filip\source\repos\Arvutus\Arvutus\bin\Debug\netcoreapp3.1\Arvutus.exe
+C:\Users\Filip\source\repos\Arvutus\Arvutus\bin\Debug\netcoreapp3.1\Arvutus.deps.json
+C:\Users\Filip\source\repos\Arvutus\Arvutus\bin\Debug\netcoreapp3.1\Arvutus.runtimeconfig.json
+C:\Users\Filip\source\repos\Arvutus\Arvutus\bin\Debug\netcoreapp3.1\Arvutus.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\Arvutus\Arvutus\bin\Debug\netcoreapp3.1\Arvutus.dll
+C:\Users\Filip\source\repos\Arvutus\Arvutus\bin\Debug\netcoreapp3.1\Arvutus.pdb
+C:\Users\Filip\source\repos\Arvutus\Arvutus\obj\Debug\netcoreapp3.1\Arvutus.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\Arvutus\Arvutus\obj\Debug\netcoreapp3.1\Arvutus.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Arvutus\Arvutus\obj\Debug\netcoreapp3.1\Arvutus.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Arvutus\Arvutus\obj\Debug\netcoreapp3.1\Arvutus.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Arvutus\Arvutus\obj\Debug\netcoreapp3.1\Arvutus.dll
+C:\Users\Filip\source\repos\Arvutus\Arvutus\obj\Debug\netcoreapp3.1\Arvutus.pdb
+C:\Users\Filip\source\repos\Arvutus\Arvutus\obj\Debug\netcoreapp3.1\Arvutus.genruntimeconfig.cache

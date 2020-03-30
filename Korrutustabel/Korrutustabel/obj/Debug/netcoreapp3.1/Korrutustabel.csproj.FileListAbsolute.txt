@@ -1,0 +1,13 @@
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\obj\Debug\netcoreapp3.1\Korrutustabel.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\obj\Debug\netcoreapp3.1\Korrutustabel.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\obj\Debug\netcoreapp3.1\Korrutustabel.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\obj\Debug\netcoreapp3.1\Korrutustabel.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\bin\Debug\netcoreapp3.1\Korrutustabel.exe
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\bin\Debug\netcoreapp3.1\Korrutustabel.deps.json
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\bin\Debug\netcoreapp3.1\Korrutustabel.runtimeconfig.json
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\bin\Debug\netcoreapp3.1\Korrutustabel.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\bin\Debug\netcoreapp3.1\Korrutustabel.dll
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\bin\Debug\netcoreapp3.1\Korrutustabel.pdb
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\obj\Debug\netcoreapp3.1\Korrutustabel.dll
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\obj\Debug\netcoreapp3.1\Korrutustabel.pdb
+C:\Users\Filip\source\repos\Korrutustabel\Korrutustabel\obj\Debug\netcoreapp3.1\Korrutustabel.genruntimeconfig.cache

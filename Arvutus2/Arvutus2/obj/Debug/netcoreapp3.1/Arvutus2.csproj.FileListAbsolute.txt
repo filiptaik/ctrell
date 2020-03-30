@@ -1,0 +1,12 @@
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\bin\Debug\netcoreapp3.1\Arvutus2.exe
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\bin\Debug\netcoreapp3.1\Arvutus2.deps.json
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\bin\Debug\netcoreapp3.1\Arvutus2.runtimeconfig.json
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\bin\Debug\netcoreapp3.1\Arvutus2.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\bin\Debug\netcoreapp3.1\Arvutus2.dll
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\bin\Debug\netcoreapp3.1\Arvutus2.pdb
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\obj\Debug\netcoreapp3.1\Arvutus2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\obj\Debug\netcoreapp3.1\Arvutus2.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\obj\Debug\netcoreapp3.1\Arvutus2.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\obj\Debug\netcoreapp3.1\Arvutus2.dll
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\obj\Debug\netcoreapp3.1\Arvutus2.pdb
+C:\Users\Filip\source\repos\Arvutus2\Arvutus2\obj\Debug\netcoreapp3.1\Arvutus2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Filip\source\repos\Stringid\Stringid\bin\Debug\netcoreapp3.1\Stringid.exe
+C:\Users\Filip\source\repos\Stringid\Stringid\bin\Debug\netcoreapp3.1\Stringid.deps.json
+C:\Users\Filip\source\repos\Stringid\Stringid\bin\Debug\netcoreapp3.1\Stringid.runtimeconfig.json
+C:\Users\Filip\source\repos\Stringid\Stringid\bin\Debug\netcoreapp3.1\Stringid.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\Stringid\Stringid\bin\Debug\netcoreapp3.1\Stringid.dll
+C:\Users\Filip\source\repos\Stringid\Stringid\bin\Debug\netcoreapp3.1\Stringid.pdb
+C:\Users\Filip\source\repos\Stringid\Stringid\obj\Debug\netcoreapp3.1\Stringid.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Stringid\Stringid\obj\Debug\netcoreapp3.1\Stringid.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Stringid\Stringid\obj\Debug\netcoreapp3.1\Stringid.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Stringid\Stringid\obj\Debug\netcoreapp3.1\Stringid.dll
+C:\Users\Filip\source\repos\Stringid\Stringid\obj\Debug\netcoreapp3.1\Stringid.pdb
+C:\Users\Filip\source\repos\Stringid\Stringid\obj\Debug\netcoreapp3.1\Stringid.genruntimeconfig.cache

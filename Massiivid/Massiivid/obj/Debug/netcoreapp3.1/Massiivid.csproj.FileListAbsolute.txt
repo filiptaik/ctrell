@@ -1,0 +1,13 @@
+C:\Users\Filip\source\repos\Massiivid\Massiivid\obj\Debug\netcoreapp3.1\Massiivid.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\Massiivid\Massiivid\obj\Debug\netcoreapp3.1\Massiivid.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Massiivid\Massiivid\obj\Debug\netcoreapp3.1\Massiivid.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Massiivid\Massiivid\obj\Debug\netcoreapp3.1\Massiivid.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Massiivid\Massiivid\bin\Debug\netcoreapp3.1\Massiivid.exe
+C:\Users\Filip\source\repos\Massiivid\Massiivid\bin\Debug\netcoreapp3.1\Massiivid.deps.json
+C:\Users\Filip\source\repos\Massiivid\Massiivid\bin\Debug\netcoreapp3.1\Massiivid.runtimeconfig.json
+C:\Users\Filip\source\repos\Massiivid\Massiivid\bin\Debug\netcoreapp3.1\Massiivid.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\Massiivid\Massiivid\bin\Debug\netcoreapp3.1\Massiivid.dll
+C:\Users\Filip\source\repos\Massiivid\Massiivid\bin\Debug\netcoreapp3.1\Massiivid.pdb
+C:\Users\Filip\source\repos\Massiivid\Massiivid\obj\Debug\netcoreapp3.1\Massiivid.dll
+C:\Users\Filip\source\repos\Massiivid\Massiivid\obj\Debug\netcoreapp3.1\Massiivid.pdb
+C:\Users\Filip\source\repos\Massiivid\Massiivid\obj\Debug\netcoreapp3.1\Massiivid.genruntimeconfig.cache

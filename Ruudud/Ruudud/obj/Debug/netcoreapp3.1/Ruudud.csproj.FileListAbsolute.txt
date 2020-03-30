@@ -1,0 +1,12 @@
+C:\Users\Filip\source\repos\Ruudud\Ruudud\bin\Debug\netcoreapp3.1\Ruudud.exe
+C:\Users\Filip\source\repos\Ruudud\Ruudud\bin\Debug\netcoreapp3.1\Ruudud.deps.json
+C:\Users\Filip\source\repos\Ruudud\Ruudud\bin\Debug\netcoreapp3.1\Ruudud.runtimeconfig.json
+C:\Users\Filip\source\repos\Ruudud\Ruudud\bin\Debug\netcoreapp3.1\Ruudud.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\Ruudud\Ruudud\bin\Debug\netcoreapp3.1\Ruudud.dll
+C:\Users\Filip\source\repos\Ruudud\Ruudud\bin\Debug\netcoreapp3.1\Ruudud.pdb
+C:\Users\Filip\source\repos\Ruudud\Ruudud\obj\Debug\netcoreapp3.1\Ruudud.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Ruudud\Ruudud\obj\Debug\netcoreapp3.1\Ruudud.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Ruudud\Ruudud\obj\Debug\netcoreapp3.1\Ruudud.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Ruudud\Ruudud\obj\Debug\netcoreapp3.1\Ruudud.dll
+C:\Users\Filip\source\repos\Ruudud\Ruudud\obj\Debug\netcoreapp3.1\Ruudud.pdb
+C:\Users\Filip\source\repos\Ruudud\Ruudud\obj\Debug\netcoreapp3.1\Ruudud.genruntimeconfig.cache

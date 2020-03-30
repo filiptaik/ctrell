@@ -1,0 +1,12 @@
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\obj\Debug\netcoreapp3.1\Alamprogramm.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\obj\Debug\netcoreapp3.1\Alamprogramm.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\obj\Debug\netcoreapp3.1\Alamprogramm.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\bin\Debug\netcoreapp3.1\Alamprogramm.exe
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\bin\Debug\netcoreapp3.1\Alamprogramm.deps.json
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\bin\Debug\netcoreapp3.1\Alamprogramm.runtimeconfig.json
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\bin\Debug\netcoreapp3.1\Alamprogramm.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\bin\Debug\netcoreapp3.1\Alamprogramm.dll
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\bin\Debug\netcoreapp3.1\Alamprogramm.pdb
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\obj\Debug\netcoreapp3.1\Alamprogramm.dll
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\obj\Debug\netcoreapp3.1\Alamprogramm.pdb
+C:\Users\Filip\source\repos\Alamprogramm\Alamprogramm\obj\Debug\netcoreapp3.1\Alamprogramm.genruntimeconfig.cache

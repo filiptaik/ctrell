@@ -1,0 +1,12 @@
+C:\Users\Filip\source\repos\Sisend1\Sisend1\bin\Debug\netcoreapp3.1\Sisend1.exe
+C:\Users\Filip\source\repos\Sisend1\Sisend1\bin\Debug\netcoreapp3.1\Sisend1.deps.json
+C:\Users\Filip\source\repos\Sisend1\Sisend1\bin\Debug\netcoreapp3.1\Sisend1.runtimeconfig.json
+C:\Users\Filip\source\repos\Sisend1\Sisend1\bin\Debug\netcoreapp3.1\Sisend1.runtimeconfig.dev.json
+C:\Users\Filip\source\repos\Sisend1\Sisend1\bin\Debug\netcoreapp3.1\Sisend1.dll
+C:\Users\Filip\source\repos\Sisend1\Sisend1\bin\Debug\netcoreapp3.1\Sisend1.pdb
+C:\Users\Filip\source\repos\Sisend1\Sisend1\obj\Debug\netcoreapp3.1\Sisend1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Sisend1\Sisend1\obj\Debug\netcoreapp3.1\Sisend1.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Sisend1\Sisend1\obj\Debug\netcoreapp3.1\Sisend1.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Sisend1\Sisend1\obj\Debug\netcoreapp3.1\Sisend1.dll
+C:\Users\Filip\source\repos\Sisend1\Sisend1\obj\Debug\netcoreapp3.1\Sisend1.pdb
+C:\Users\Filip\source\repos\Sisend1\Sisend1\obj\Debug\netcoreapp3.1\Sisend1.genruntimeconfig.cache
